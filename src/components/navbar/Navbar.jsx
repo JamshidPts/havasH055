@@ -8,7 +8,7 @@ function Navbar() {
     <div className='container bg-center items-center justify-center m-auto'>
         <nav className='flex justify-between p-5 bg-amber-400 items-center py-3'>
           <div>
-            <a className='font-bold text-2xl letter tracking-wide cursor-pointer'>Havas</a>
+            <a className='font-bold text-2xl letter tracking-wide cursor-pointer text-white'>Havas</a>
           </div>
           <div>
 
